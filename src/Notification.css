@@ -1,0 +1,27 @@
+.notification {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+  }
+  
+  .success {
+    background-color: #4caf50;
+  }
+  
+  .error {
+    background-color: #f44336;
+  }
+  
+  .notification-message {
+    margin: 0;
+  }
+  
+  .notification-error {
+    margin: 0;
+  }
+  
